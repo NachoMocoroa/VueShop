@@ -1,6 +1,6 @@
 # vue-shop
 
-> A Vue.js project
+> A Vue.js project inspired on: https://shop.polymer-project.org/
 
 ## Build Setup
 
